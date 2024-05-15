@@ -1,5 +1,7 @@
-# John Doe's Code Portfolio
+# Jane Doe's Code Portfolio
 
-This portfolio page is a sample code portfolio page, created to showcase how RepoSense can be used to create a code portfolio page. The code given are from one of the RepoSense project team members.
+Welcome to my code portfolio page, created to showcase some of the code I've written in various projects.
 
--------------------------------
+Notes:
+* In _code contribution timelines_ given below, each triangle represents a commit (and the area of the triangle is proportional to the size of the commit).
+* You can click on the `</>` icon (shown above the timelines) to view the cumulative code I contributed to that project.
